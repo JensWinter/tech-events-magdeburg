@@ -2,8 +2,6 @@
 
 | Wann?    | | Wer?                      | Was?                                           | Wo?                          |                                                                                     |
 |------------|---|---------------------------|------------------------------------------------|------------------------------|-------------------------------------------------------------------------------------|
-| 03.-05.05. | | Landeshauptstadt Magdeburg | RoboCup German Open 2019 | MESSE MAGDEBURG | [robocupgermanopen.de](https://www.robocupgermanopen.de/de) |
-| 03.-04.05. | | Landeshauptstadt Magdeburg | Technik begeistert - Perspektive MINT 2019 | MESSE MAGDEBURG | [magdeburg-mint.de](https://magdeburg-mint.de/) |
 | 14.05. | 18:00-20:00 | Softwerkskammer Magdeburg | Coding Dojo - Kata Tennis | advanto Software GmbH, Mittelstraße 10, 39114 Magdeburg | [Meetup.com](https://www.meetup.com/Softwerkskammer-Magdeburg/events/rktnpqyzhbsb/ ) |
 | 20.-22.05. | | CurrentSystem 23 GmbH | Magdeburger Developer Days | AMO Kulturhaus | [md-devdays.de](https://www.md-devdays.de) |
 | 25.05. | | Landeshauptstadt Magdeburg | Lange Nacht der Wissenschaft | versch. Orte | [wissenschaft.magdeburg.de](https://www.wissenschaft.magdeburg.de/) |
