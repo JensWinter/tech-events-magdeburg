@@ -2,7 +2,6 @@
 
 | Wann?    | | Wer?                      | Was?                                           | Wo?                          |                                                                                     |
 |------------|---|---------------------------|------------------------------------------------|------------------------------|-------------------------------------------------------------------------------------|
-| 25.05. | | Landeshauptstadt Magdeburg | Lange Nacht der Wissenschaft | versch. Orte | [wissenschaft.magdeburg.de](https://www.wissenschaft.magdeburg.de/) |
 | 25.-28.05. | | MS Wissenschaft | Tour 2019 - Künstliche Intelligenz | Wissenschaftshafen | [ms-wissenschaft.de](https://ms-wissenschaft.de/ausstellung/tour-2019/magdeburg/) |
 | 27.05. | 18-21:30 | SAP UCC | SAP Stammtisch Magdeburg | Universitätsplatz 12, 39104 Magdeburg | [XING-Gruppe](https://www.xing.com/events/sap-stammtisch-magdeburg-2082619) |
 | 27.05. | 19:30-21:00 | Netz39 e.V. | TechTalk: Mit Kryptographie gegen Steuerbetrug | Leibnizstr. 32, 39104 Magdeburg | [Netz39 e.V.](http://www.netz39.de/events/event/techtalk-mit-kryptographie-gegen-steuerbetrug/) |
