@@ -9,3 +9,6 @@
 | 29.07. | 18:00-21:30 | SAP UCC | SAP Stammtisch Magdeburg | Universitätsplatz 12, 39104 Magdeburg | [XING-Gruppe](https://www.xing.com/events/sap-stammtisch-magdeburg-2117222) |
 
 Alle Angaben sind ohne Gewähr!
+
+[Impressum](IMPRESSUM.md)  
+[Datenschutzerklärung](DATENSCHUTZ.md)
