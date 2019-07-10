@@ -10,5 +10,4 @@
 
 Alle Angaben sind ohne Gewähr!
 
-[Impressum](IMPRESSUM.md)  
-[Datenschutzerklärung](DATENSCHUTZ.md)
+[Impressum und Datenschutzhinweise](IMPRESSUM.md)
