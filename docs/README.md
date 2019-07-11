@@ -12,11 +12,6 @@ Alle Angaben sind ohne Gewähr!
 
 [Impressum und Datenschutzhinweise](IMPRESSUM.md)
 
-<!--iframe
-        style="border: 0; height: 200px; width: 600px;"
-        src="https://magdeburgwaehlt.matomo.cloud/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=000000&fontColor=eaeaea&fontSize=12px&fontFamily=Monaco"
-        ></iframe-->
-
 <!-- Matomo -->
 <script type="text/javascript">
   var _paq = window._paq || [];

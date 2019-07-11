@@ -50,7 +50,12 @@ pk_ses wird grundsätzlich nach dem Beenden Ihrer Browsersitzung gelöscht, ledi
 
 Die Darstellung unserer Internetseite ist auch ohne Speicherung von Cookies möglich. Sie können das Speichern von Cookies in den Einstellungen ihres Browsers deaktivieren oder diesen so einstellen, dass er Sie über die beabsichtigte Speicherung durch eine Internetseite informiert. In diesem Fall entscheiden Sie über die Annahme des Cookies.
 
-Zudem können durch die Entfernung des folgenden Hakens verhindern, dass wir mittels Matomo Analyse-Cookies auf Ihrem Endgerät setzen. In diesem Fall wird ein Cookie gesetzt um uns zu signalisieren, dass Sie der Nutzung widersprochen haben.
+Zudem können durch die Entfernung des folgenden Hakens verhindern, dass wir mittels Matomo Analyse-Cookies auf Ihrem Endgerät setzen. In diesem Fall wird ein Cookie gesetzt um uns zu signalisieren, dass Sie der Nutzung widersprochen haben.  
+
+<iframe
+        style="border: 0; height: 200px; width: 600px;"
+        src="https://magdeburgwaehlt.matomo.cloud/index.php?module=CoreAdminHome&action=optOut&language=en&backgroundColor=151515&fontColor=eaeaea&fontSize=16px&fontFamily=Monaco"
+        ></iframe>
 
 Bitte beachten Sie, dass die jeweiligen Einstellungen bzgl. Cookies nur für Ihr aktuell benutztes Gerät und Ihren aktuell benutzten Browser wirksam sind. Sollten Sie ein anderes Gerät oder einen anderen Browser benutzen, müssen Sie in der Regel die Einstellungen erneut vornehmen.
 
