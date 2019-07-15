@@ -1,0 +1,32 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+    <div class="wrapper">
+
+        <div class="footer-col-wrapper">
+            <div class="footer-col footer-col-1">
+                {%- include social.html -%}
+                <!--a href="{{ site.baseurl }}/veranstaltung-melden">Veranstaltung melden</a><br-->
+                <a href="{{ site.baseurl }}/unterstuetzer-werden">Unterstützer/*in werden</a><br>
+                <a href="{{ site.baseurl }}/impressum">Impressum</a>
+            </div>
+
+            <div class="footer-col footer-col-2">
+                {% comment %}
+                {%- include social.html -%}
+                {% endcomment %}
+            </div>
+
+            <div class="footer-col footer-col-3">
+                <a href="http://www.netz39.de" target="_blank" style="margin-right: 20px;"><img style="width: 100px;"
+                        src="{{ 'assets/netz39.png' | relative_url }}"></a>
+                <a href="https://codefor.de/magdeburg" target="_blank" style="margin-right: 20px;"><img
+                        style="width: 100px;" src="{{ 'assets/CFG_logo.svg' | relative_url }}"></a>
+                <a href="https://www.softwerkskammer.org/groups/magdeburg" target="_blank"><img style="height: 50px;"
+                        src="{{ 'assets/SWK_Magdeburg.png' | relative_url }}"></a>
+            </div>
+        </div>
+
+    </div>
+
+</footer>

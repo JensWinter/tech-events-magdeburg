@@ -1,3 +1,10 @@
+---
+title: Impressum
+layout: default
+---
+
+[Zurück](./)
+
 # Impressum
 
 **Verantwortlich gemäß §55 RStV:**  
