@@ -18,7 +18,7 @@ author: Jens Winter
 email: jens.winter@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wir informieren über aktuelle IT-Veranstaltungen in und um Magdeburg
-baseurl: "/tech-events-magdeburg-test" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JensWinter
 github_username:  JensWinter
