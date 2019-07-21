@@ -9,7 +9,7 @@
 2. Tech-Interessierte erhalten sehr einfach einen Überblick über die aktuellen Veranstaltungen in der Nähe.
 
 ## So funktioniert's
-Die Liste der aktuellen Events befindet sich in der Datei [/docs/README.md](/docs/README.md). Ihr als Veranstalter von IT-Events tragt eure aktuellen Termine dort an der entsprechenden Stelle ein. Die erforderlichen Daten sind
+Die Liste der aktuellen Events befindet sich in der Datei [_data/events.yml](https://github.com/JensWinter/tech-events-magdeburg/blob/gh-pages/_data/events.yml) im gh-pages Branch. Ihr als Veranstalter von IT-Events tragt eure aktuellen Termine dort an der entsprechenden Stelle ein. Die erforderlichen Daten sind
 - Zeit
 - Ort
 - Thema
