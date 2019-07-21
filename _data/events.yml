@@ -9,19 +9,11 @@
 #   url: "Externer Link für die Veranstaltung"
 #
 
-- date: "17.07."
-  time: "18:00"
-  org: "IGZ Magdeburg"
-  title: "Gründerstammtisch: IT-Sicherheit und Datenschutz in der Praxis (mit Anmeldung)"
-  location: "Mittagstraße 16p, 39124 Magdeburg"
-  url_title: "magdeburg.de"
-  url: "https://www.magdeburg.de/Start/index.php?NavID=37.459.1&object=tx%7C37.20633.1&La=1&"
-
 - date: "22.07."
   time: "19:30-22:00"
   org: "Netz39 e.V."
   title: "TechTalk: Mechanical Keyboards"
-  location: "Leibnizstr. 32, 39104 Magdeburg"
+  location: "Leibnizstr. 32"
   url_title: "Netz39 e.V."
   url: "http://www.netz39.de/events/event/techtalk-mechanical-keyboards/"
 
@@ -29,7 +21,7 @@
   time: "18:00-20:30"
   org: "Agile Magdeburg"
   title: "Ich SEO was, was du nicht siehst - Suchmaschinenoptimierung im eCommerce"
-  location: marmelade GmbH/webvariants GmbH Otto-von-Guericke Str. 87a, 39104 Magdeburg"
+  location: marmelade GmbH/webvariants GmbH Otto-von-Guericke Str. 87a"
   url_title: "Meetup.com"
   url: "https://www.meetup.com/Agile-Magdeburg/events/262506721/"
 
@@ -37,7 +29,7 @@
   time: "18:00-21:30"
   org: "SAP UCC"
   title: "SAP Stammtisch Magdeburg"
-  location: "Universitätsplatz 12, 39104 Magdeburg"
+  location: "Universitätsplatz 12"
   url_title: "XING-Gruppe"
   url: "https://www.xing.com/events/sap-stammtisch-magdeburg-2117222"
 
@@ -45,9 +37,9 @@
   time: "17:30-19:30"
   org: "OK Lab Magdeburg"
   title: "OK Lab Meeting"
-  location: "Macherburg, Porsestraße 19 (Geb. 13), 39104 Magdeburg"
-  url_title: ""
-  url: ""
+  location: "Macherburg, Porsestraße 19 (Geb. 13)"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/OK-Lab-Magdeburg/events/263329053/"
 
 - date: "13.08."
   time: "18:00-20:00"
@@ -61,6 +53,14 @@
   time: "19:30-22:30"
   org: "Netz39 e.V."
   title: "Linux-Stammtisch"
-  location: "Leibnizstr. 32, 39104 Magdeburg"
+  location: "Leibnizstr. 32"
   url_title: "Netz39 e.V."
   url: "http://www.netz39.de/events/event/linux-stammtisch/"
+
+- date: "18.09."
+  time: "18:00-22:00"
+  org: "TYPO3 Usergroup Magdeburg"
+  title: "TYPO3 Usergroup-Treffen"
+  location: "Buff! Meine Werbeagentur GmbH, Große Diesdorfer Str. 249"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/TYPO3-UserGroup-Magdeburg/events/262089829/"
