@@ -33,14 +33,6 @@
   url_title: "XING-Gruppe"
   url: "https://www.xing.com/events/sap-stammtisch-magdeburg-2117222"
 
-- date: "08.08."
-  time: "17:30-19:30"
-  org: "OK Lab Magdeburg"
-  title: "OK Lab Meeting"
-  location: "Macherburg, Porsestraße 19 (Geb. 13)"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/OK-Lab-Magdeburg/events/263329053/"
-
 - date: "13.08."
   time: "18:00-20:00"
   org: "Softwerkskammer Magdeburg"
@@ -48,6 +40,14 @@
   location: "tba"
   url_title: "Meetup.com"
   url: "https://www.meetup.com/Softwerkskammer-Magdeburg/events/jkngwqyzlbrb/"
+
+- date: "15.08."
+  time: "17:30-19:30"
+  org: "OK Lab Magdeburg"
+  title: "OK Lab Meeting"
+  location: "Macherburg, Porsestraße 19 (Geb. 13)"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/OK-Lab-Magdeburg/events/263329053/"
 
 - date: "21.08."
   time: "19:30-22:30"
