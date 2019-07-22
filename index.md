@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Tech Events Magdeburg
 ---
-
-<h1>Tech Events Magdeburg</h1>
 
 | Wann?    |          | Wer?     | Was?     | Wo?      |          |
 |----------|----------|----------|----------|----------|----------|
@@ -16,3 +15,7 @@ layout: home
 <sub style="float: right;"><sup>Alle Angaben sind ohne Gewähr</sup></sub>
 
 {% include sponsors.html %}
+
+Eine Veranstaltung kann ganz einfach gemeldet werden:
+- per Pull-Request im [GitHub-Projekt](https://github.com/JensWinter/tech-events-magdeburg/tree/gh-pages)
+- per E-Mail an <jens.winter@gmail.com>
