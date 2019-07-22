@@ -25,6 +25,14 @@
   url_title: "Meetup.com"
   url: "https://www.meetup.com/Agile-Magdeburg/events/262506721/"
 
+- date: "25.07."
+  time: "16:00-17:00"
+  org: "Mittelstand 4.0-Kompetenzzentrum Magdeburg"
+  title: "Vom Sensor bis zum Anwender - Aus verstreuten Daten werden wertvolle Informationen (mit Anmeldung)"
+  location: "ifak e.V. Magdeburg, Technikum, Werner-Heisenberg-Str. 1"
+  url_title: "vernetzt-wachsen.de"
+  url: "https://www.vernetzt-wachsen.de/unsere-angebote/veranstaltungen/vom-sensor-bis-zum-anwender-aus-verstreuten-daten-werden-wertvolle-informationen-2/"
+
 - date: "29.07."
   time: "18:00-21:30"
   org: "SAP UCC"
@@ -56,6 +64,14 @@
   location: "Leibnizstr. 32"
   url_title: "Netz39 e.V."
   url: "http://www.netz39.de/events/event/linux-stammtisch/"
+
+- date: "29.08."
+  time: "18:00-20:00"
+  org: "Mittelstand 4.0-Kompetenzzentrum Magdeburg"
+  title: "After-Work-Diskussionsrunde: HILFE MEIN IT DIENSTLEISTER SPRICHT NUR LATEIN! (mit Anmeldung)"
+  location: "Xampanyeria 226, Breiter Weg 226"
+  url_title: "vernetzt-wachsen.de"
+  url: "https://www.vernetzt-wachsen.de/unsere-angebote/veranstaltungen/it-sprache-verstehen/"
 
 - date: "18.09."
   time: "18:00-22:00"
