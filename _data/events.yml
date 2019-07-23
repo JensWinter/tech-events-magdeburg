@@ -9,6 +9,14 @@
 #   url: "Externer Link für die Veranstaltung"
 #
 
+- date: "23.07."
+  time: "19:00-22:00"
+  org: "Games & XR Mitteldeutschland"
+  title: "Arbeitskreis Games & Industrie"
+  location: "Speicher K, Sarajevo Ufer"
+  url_title: "Facebook"
+  url: "https://m.facebook.com/events/488306141712741/"
+
 - date: "24.07."
   time: "18:00-20:30"
   org: "Agile Magdeburg"
