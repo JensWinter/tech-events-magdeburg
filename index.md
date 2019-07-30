@@ -6,11 +6,29 @@ layout: home
 title: Tech Events Magdeburg
 ---
 
-| Wann?    |          | Wer?     | Was?     | Wo?      |          |
-|----------|----------|----------|----------|----------|----------|
-{% for event in site.data.events -%}
-| {{ event.date }} | {{ event.time }} | {{ event.org }} | {{ event.title }} | {{ event.location }} | [{{ event.url_title }}]({{ event.url }}) |
-{% endfor %}
+<table>
+    <thead>
+        <tr>
+            <th colspan="2">Wann?</th>
+            <th>Wer?</th>
+            <th>Was?</th>
+            <th>Wo?</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for event in site.data.events -%}
+        <tr>
+            <td>{{ event.date }}</td>
+            <td>{{ event.time }}</td>
+            <td>{{ event.org }}</td>
+            <td>{{ event.title }}</td>
+            <td>{{ event.location }}</td>
+            <td><a href="{{ event.url }}">{{ event.url_title }}</a></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
 
 <sub style="float: right;"><sup>Alle Angaben sind ohne Gewähr</sup></sub>
 
