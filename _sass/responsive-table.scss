@@ -1,0 +1,61 @@
+@media screen and (max-width: 700px) {
+  table,
+  thead,
+  tbody,
+  th,
+  td,
+  tr {
+    display: block;
+  }
+
+  table {
+    border: none;
+  }
+
+  thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  tr {
+    border: 1px solid #ccc;
+    margin: 0 0 1rem 0;
+  }
+
+  td {
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 30% !important;
+  }
+
+  td:before {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    font-weight: bold;
+  }
+
+  td:nth-of-type(1):before {
+    content: "Wann?";
+  }
+  td:nth-of-type(2):before {
+    content: "";
+  }
+  td:nth-of-type(3):before {
+    content: "Wer?";
+  }
+  td:nth-of-type(4):before {
+    content: "Was?";
+  }
+  td:nth-of-type(5):before {
+    content: "Wo?";
+  }
+  td:nth-of-type(6):before {
+    content: "";
+  }
+}
