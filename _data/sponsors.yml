@@ -8,3 +8,7 @@
 - name: "MrAppWare"
   logo_filename: "MrAppWare.png"
   url: "http://www.mrappware.de"
+
+- name: "advanto Software GmbH"
+  logo_filename: "advanto.png"
+  url: "http://www.advanto-software.de"
