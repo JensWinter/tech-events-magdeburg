@@ -72,3 +72,11 @@
   location: "SAP University Competence Center Magdeburg (SAP UCC), Universitätsplatz 12, 39104 Magdeburg"
   url_title: "Infos und Anmeldung (Xing Event)"
   url: "https://www.xing.com/events/sap-stammtisch-magdeburg-2132307"
+
+- date: "02.10."
+  time: "19:30-22:30"
+  org: "Netz39 e.V."
+  title: "Linux-Stammtisch"
+  location: "Leibnizstr. 32"
+  url_title: "Netz39 e.V."
+  url: "http://www.netz39.de/events/event/linux-stammtisch/"
