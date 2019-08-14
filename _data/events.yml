@@ -9,14 +9,6 @@
 #   url: "Externer Link für die Veranstaltung"
 #
 
-- date: "13.08."
-  time: "18:00-20:00"
-  org: "Softwerkskammer Magdeburg"
-  title: "Modernes Node.js mit async/await"
-  location: "advanto Software GmbH, Mittelstraße 10"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/jkngwqyzlbrb/"
-
 - date: "15.08."
   time: "17:30-19:30"
   org: "OK Lab Magdeburg"
