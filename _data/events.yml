@@ -9,14 +9,6 @@
 #   url: "Externer Link für die Veranstaltung"
 #
 
-- date: "21.08."
-  time: "19:30-22:30"
-  org: "Netz39 e.V."
-  title: "Linux-Stammtisch"
-  location: "Leibnizstr. 32"
-  url_title: "Netz39 e.V."
-  url: "http://www.netz39.de/events/event/linux-stammtisch/"
-
 - date: "22.08."
   time: "16:00-17:00"
   org: "Mittelstand 4.0-Kompetenzzentrum Magdeburg"
