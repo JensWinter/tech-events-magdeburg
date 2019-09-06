@@ -9,13 +9,13 @@
 #   url: "Externer Link für die Veranstaltung"
 #
 
-- date: "10.09."
+- date: "17.09."
   time: "18:00-20:00"
   org: "Softwerkskammer Magdeburg"
-  title: "Monatliches Treffen der SWK Magdeburg"
-  location: "tba"
+  title: "Coding Dojo - Trip Service Refactoring Kata"
+  location: "IBM Client Innovation Center, Universitätsplatz 12"
   url_title: "Meetup.com"
-  url: "https://www.meetup.com/Softwerkskammer-Magdeburg/events/jkngwqyzmbnb/"
+  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/jkngwqyzmbnb/"
 
 - date: "18.09."
   time: "18:00-22:00"
