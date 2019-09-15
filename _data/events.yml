@@ -72,3 +72,11 @@
   location: "Universitätsbibliothek, Universitätsplatz 2"
   url_title: "vernetzt-wachsen.de"
   url: "https://www.vernetzt-wachsen.de/unsere-angebote/veranstaltungen/agiles-projektmanagement-mit-scrum-4/"
+
+- date: "13.11."
+  time: "10:00-17:00"
+  org: "Ministerium für Wirtschaft, Wissenschaft und Digitalisierung des Landes Sachsen-Anhalt"
+  title: "IT-Trendkongress"
+  location: "Festung Mark, Hohepfortewall 1"
+  url_title: "it-trendkongress.de"
+  url: "https://it-trendkongress.de/"
