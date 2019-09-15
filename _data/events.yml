@@ -73,6 +73,14 @@
   url_title: "vernetzt-wachsen.de"
   url: "https://www.vernetzt-wachsen.de/unsere-angebote/veranstaltungen/agiles-projektmanagement-mit-scrum-4/"
 
+- date: "06.11."
+  time: "18:00-20:00"
+  org: "Cloud Natives Magdeburg"
+  title: "Deploying a serverless backend"
+  location: "main.dev, Otto-von-Guericke-Str. 86a"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/Cloud-Natives-Magdeburg/events/264860593"
+
 - date: "13.11."
   time: "10:00-17:00"
   org: "Ministerium für Wirtschaft, Wissenschaft und Digitalisierung des Landes Sachsen-Anhalt"
