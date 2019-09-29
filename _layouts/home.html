@@ -2,7 +2,18 @@
 layout: default
 ---
 
+<script>
+
+    var events = [];
+
+    {% for event in site.data.events -%}
+    events.push(['{{event.date}}', '{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
+    {% endfor %}
+
+</script>
+
 <div class="home">
+    <small><a href="javascript:openPdf(events);" id="download-pdf" style="float: right; margin-top: 25px;">PDF herunterladen</a></small>
     {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
     {%- endif -%}
