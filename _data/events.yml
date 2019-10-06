@@ -49,6 +49,14 @@
   url_title: "it-trendkongress.de"
   url: "https://it-trendkongress.de/"
 
+- date: "13.11."
+  time: "19:30-22:30"
+  org: "Netz39 e.V."
+  title: "Linux-Stammtisch"
+  location: "Leibnizstr. 32"
+  url_title: "Netz39 e.V."
+  url: "http://www.netz39.de/events/event/linux-stammtisch/"
+
 - date: "16.11."
   time: "10:00-14:00"
   org: "vhs/Netz39 e.V."
