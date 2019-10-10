@@ -9,15 +9,6 @@
 #   url: "Externer Link für die Veranstaltung"
 #
 
-
-- date: "10.10."
-  time: "18:00-20:00"
-  org: "OK Lab Magdeburg"
-  title: "OK Lab Meeting"
-  location: "schauwerk., Breiter Weg 114a"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/OK-Lab-Magdeburg/events/264848582"
-
 - date: "17.10."
   time: "09:00-17:00"
   org: "Mittelstand 4.0-Kompetenzzentrum Magdeburg"
