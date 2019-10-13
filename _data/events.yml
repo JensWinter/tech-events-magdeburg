@@ -18,6 +18,14 @@
   url: "https://www.vernetzt-wachsen.de/unsere-angebote/veranstaltungen/agiles-projektmanagement-mit-scrum-4/"
 
 - date: "06.11."
+  time: "09:00-16:00"
+  org: "Cluster IT Mitteldeutschland e.V."
+  title: "8. Digitalisierungskonferenz"
+  location: "KID Magdeburg GmbH, Alter Markt 15"
+  url_title: "eventbrite.de"
+  url: "https://www.eventbrite.de/e/8-digitalisierungskonferenz-tickets-73466164275"
+
+- date: "06.11."
   time: "18:00-20:00"
   org: "Cloud Natives Magdeburg"
   title: "Deploying a serverless backend"
