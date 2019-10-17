@@ -20,11 +20,7 @@ function openPdf(events) {
         head: [[
             {
                 content: 'Wann?',
-                styles: { cellWidth: 20, fillColor: 'white', textColor: 'black' }
-            },
-            {
-                content: '',
-                styles: { cellWidth: 10, fillColor: 'white', textColor: 'black' }
+                styles: { cellWidth: 25, fillColor: 'white', textColor: 'black' }
             },
             {
                 content: 'Wer?',

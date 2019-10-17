@@ -7,7 +7,7 @@ layout: default
     var events = [];
 
     {% for event in site.data.events -%}
-    events.push(['{{event.date}}', '{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
+    events.push(['{{event.date}}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
     {% endfor %}
 
 </script>
