@@ -65,6 +65,14 @@
   url_title: "vhs Magdeburg"
   url: "https://www.vhs.magdeburg.de/index.php?id=42&kathaupt=11&knr=E55150&kursname=Linux+Presentation+Day&katid=0"
 
+- date: "20.11."
+  time: "18:00-21:00"
+  org: "Tech Startups Magdeburg"
+  title: "Headless eCommerce mit React und next.js"
+  location: "marmalade GmbH, Otto-von-Guericke-Straße 87a"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/Tech-Startups-Magdeburg/events/266131513"
+
 - date: "22.-24.11."
   time: ""
   org: "Ministerium für Wirtschaft, Wissenschaft und Digitalisierung des Landes Sachsen-Anhalt"
