@@ -9,22 +9,6 @@
 #   url: "Externer Link für die Veranstaltung"
 #
 
-- date: "06.11."
-  time: "09:00-16:00"
-  org: "Cluster IT Mitteldeutschland e.V."
-  title: "8. Digitalisierungskonferenz"
-  location: "KID Magdeburg GmbH, Alter Markt 15"
-  url_title: "eventbrite.de"
-  url: "https://www.eventbrite.de/e/8-digitalisierungskonferenz-tickets-73466164275"
-
-- date: "06.11."
-  time: "18:00-20:00"
-  org: "Cloud Natives Magdeburg"
-  title: "Deploying a serverless backend"
-  location: "main.dev, Otto-von-Guericke-Str. 86a"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/Cloud-Natives-Magdeburg/events/264860593"
-
 - date: "12.11."
   time: "18:00-20:00"
   org: "Softwerkskammer Magdeburg"
