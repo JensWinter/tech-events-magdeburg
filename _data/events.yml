@@ -9,22 +9,6 @@
 #   url: "Externer Link für die Veranstaltung"
 #
 
-- date: "13.11."
-  time: "10:00-17:00"
-  org: "Ministerium für Wirtschaft, Wissenschaft und Digitalisierung des Landes Sachsen-Anhalt"
-  title: "IT-Trendkongress"
-  location: "Festung Mark, Hohepfortewall 1"
-  url_title: "it-trendkongress.de"
-  url: "https://it-trendkongress.de/"
-
-- date: "13.11."
-  time: "19:30-22:30"
-  org: "Netz39 e.V."
-  title: "Linux-Stammtisch"
-  location: "Leibnizstr. 32"
-  url_title: "Netz39 e.V."
-  url: "http://www.netz39.de/events/event/linux-stammtisch/"
-
 - date: "14.11."
   time: "18:30-21:30"
   org: "Agile Magdeburg"
