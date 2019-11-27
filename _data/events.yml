@@ -9,14 +9,6 @@
 #   url: "Externer Link für die Veranstaltung"
 #
 
-- date: "26.11."
-  time: "18:00-20:00"
-  org: "OK Lab Magdeburg"
-  title: "OK Lab Meeting"
-  location: "KUBUS 2025, Fürstenwallstraße 11"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/OK-Lab-Magdeburg/events/265907102/"
-
 - date: "27.11."
   time: "19:00-22:00"
   org: "TYPO3 Usergroup Magdeburg"
