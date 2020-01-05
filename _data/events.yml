@@ -40,3 +40,11 @@
   location: "Universitätsbibliothek - Otto-von-Guericke-Universität, Gebäude 30, Universitätspl. 2"
   url_title: "Infos und Registrierung auf Xing"
   url: "https://www.xing.com/events/sap-stammtisch-magdeburg-spezial-digitale-perspektiven-2605732"
+
+- date: "27.01."
+  time: "19:30-21:30"
+  org: "Netz39 e.V."
+  title: "TechTalk: Monitoring mit Icinga"
+  location: "Leibnizstr. 32"
+  url_title: "Netz39 e.V."
+  url: "http://www.netz39.de/events/event/techtalk-monitoring-mit-icinga/"
