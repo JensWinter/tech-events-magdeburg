@@ -22,12 +22,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JensWinter
 github_username:  JensWinter/tech-events-magdeburg
-facebook_username: techeventsmagdeburg
-instagram_username: techeventsmagdeburg
-
-mastodon:
-     - username: JensWinter
-       instance: machteburch.social
+facebook_username: jens.winter.946
+instagram_username: fantamango77
 
 # Build settings
 markdown: kramdown
