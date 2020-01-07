@@ -56,3 +56,11 @@
   location: "Leibnizstr. 32"
   url_title: "Netz39 e.V."
   url: "http://www.netz39.de/events/event/techtalk-monitoring-mit-icinga/"
+
+- date: "29.01."
+  time: "19:00-22:00"
+  org: "TYPO3 Usergroup Magdeburg"
+  title: "TYPO3 Usergroup-Treffen"
+  location: "PEGASUS Werbeagentur GmbH, Bleckenburgstraße 11a"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/TYPO3-UserGroup-Magdeburg/events/267719332"
