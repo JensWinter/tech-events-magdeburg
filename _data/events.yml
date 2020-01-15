@@ -9,14 +9,6 @@
 #   url: "Externer Link für die Veranstaltung"
 #
 
-- date: "15.01."
-  time: "19:00"
-  org: "Usability Testessen"
-  title: "Usability Testessen Magdeburg"
-  location: "Festung Mark, Hohepfortewall 1"
-  url_title: "usability-testessen.org"
-  url: "https://usability-testessen.org/stadt/magdeburg/"
-
 - date: "16.01."
   time: "18:00-21:00"
   org: "Softwerkskammer Magdeburg"
