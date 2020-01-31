@@ -9,14 +9,6 @@
 #   url: "Externer Link für die Veranstaltung"
 #
 
-- date: "29.01."
-  time: "19:00-22:00"
-  org: "TYPO3 Usergroup Magdeburg"
-  title: "TYPO3 Usergroup-Treffen"
-  location: "PEGASUS Werbeagentur GmbH, Bleckenburgstraße 11a"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/TYPO3-UserGroup-Magdeburg/events/267719332"
-
 - date: "31.01."
   time: "17:00-21:00"
   org: "Nager IT e.V."
