@@ -49,3 +49,11 @@
   location: "Leibnizstr. 32"
   url_title: "Netz39 e.V."
   url: "http://www.netz39.de/events/event/techtalk-monitoring-mit-icinga/"
+
+- date: "25.03."
+  time: "19:00"
+  org: "Usability Testessen"
+  title: "Usability Testessen Magdeburg"
+  location: "Rathaus Magdeburg, Alter Markt 6"
+  url_title: "usability-testessen.org"
+  url: "https://usability-testessen.org/stadt/magdeburg/"
