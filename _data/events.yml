@@ -25,6 +25,14 @@
   url_title: "Netz39 e.V."
   url: "http://www.netz39.de/events/event/linux-stammtisch-2/"
 
+- date: "12.03."
+  time: "18:00-21:00"
+  org: "Softwerkskammer Magdeburg"
+  title: "Talk: Backend-Entwicklung mit Nest.js (nicht nur) für Angular Entwickler"
+  location: "SelectLine Software GmbH, Otto-von-Guericke-Straße 67"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/sggdprybcfbqb/"
+
 - date: "23.03."
   time: "19:30-21:00"
   org: "Netz39 e.V."
