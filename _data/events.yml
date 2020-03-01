@@ -65,6 +65,14 @@
   url_title: ""
   url: ""
 
+- date: "15.04."
+  time: "19:30-22:00"
+  org: "Netz39 e.V."
+  title: "Linux-Stammtisch"
+  location: "Leibnizstr. 32"
+  url_title: "Netz39 e.V."
+  url: "http://www.netz39.de/events/event/linux-stammtisch-2/"
+
 - date: "21.04."
   time: "19:00-22:00"
   org: "TYPO3 Usergroup Magdeburg"
