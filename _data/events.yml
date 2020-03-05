@@ -9,22 +9,6 @@
 #   url: "Externer Link für die Veranstaltung"
 #
 
-- date: "04.03."
-  time: "18:00-20:00"
-  org: "Agile Magdeburg"
-  title: "Agile Magdeburg Vol. 5"
-  location: "PEGASUS Werbeagentur GmbH, Bleckenburgstraße 11a"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/Agile-Magdeburg/events/268474960/"
-
-- date: "04.03."
-  time: "19:30-22:00"
-  org: "Netz39 e.V."
-  title: "Linux-Stammtisch"
-  location: "Leibnizstr. 32"
-  url_title: "Netz39 e.V."
-  url: "http://www.netz39.de/events/event/linux-stammtisch-2/"
-
 - date: "12.03."
   time: "18:00-21:00"
   org: "Softwerkskammer Magdeburg"
