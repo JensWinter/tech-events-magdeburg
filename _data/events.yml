@@ -50,6 +50,14 @@
   url: "https://www.meetup.com/Cloud-Natives-Magdeburg/events/269215470"
 
 - date: "09.04."
+  time: "17:00-19:00"
+  org: "Otto-von-Guericke Universität Magdeburg"
+  title: "Ringvorlesung: Autonomie im digitalen Zeitalter?!"
+  location: "Hörsaal 6, Gebäude 44"
+  url_title: "autonomie.ovgu.de"
+  url: "http://www.autonomie.ovgu.de/Termine.html"
+
+- date: "09.04."
   time: "18:00-20:00"
   org: "OK Lab Magdeburg"
   title: "Open Knowledge Lab Treffen"
@@ -65,6 +73,14 @@
   url_title: "Netz39 e.V."
   url: "http://www.netz39.de/events/event/linux-stammtisch-2/"
 
+- date: "16.04."
+  time: "17:00-19:00"
+  org: "Otto-von-Guericke Universität Magdeburg"
+  title: "Ringvorlesung: Autonomie im digitalen Zeitalter?!"
+  location: "Hörsaal 6, Gebäude 44"
+  url_title: "autonomie.ovgu.de"
+  url: "http://www.autonomie.ovgu.de/Termine.html"
+
 - date: "21.04."
   time: "19:00-22:00"
   org: "TYPO3 Usergroup Magdeburg"
@@ -72,3 +88,11 @@
   location: "MÜNSMEDIA GmbH, Schönebecker Str. 54"
   url_title: "Meetup.com"
   url: "https://www.meetup.com/TYPO3-UserGroup-Magdeburg/events/268395026/"
+
+- date: "23.04."
+  time: "17:00-19:00"
+  org: "Otto-von-Guericke Universität Magdeburg"
+  title: "Ringvorlesung: Autonomie im digitalen Zeitalter?!"
+  location: "Hörsaal 6, Gebäude 44"
+  url_title: "autonomie.ovgu.de"
+  url: "http://www.autonomie.ovgu.de/Termine.html"
