@@ -7,6 +7,7 @@
 #   location: "Wo findet die Veranstaltung statt?"
 #   url_title: "Kurze Bezeichnung für externen Link"
 #   url: "Externer Link für die Veranstaltung"
+#   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
 - date: "23.03."
