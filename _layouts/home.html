@@ -7,7 +7,11 @@ layout: default
     var events = [];
 
     {% for event in site.data.events -%}
+    {% if event.cancelled -%}
+    //events.push(['{{event.date}}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
+    {% else -%}
     events.push(['{{event.date}}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
+    {% endif %}
     {% endfor %}
 
 </script>
