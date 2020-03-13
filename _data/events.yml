@@ -17,6 +17,7 @@
   location: "Leibnizstr. 32"
   url_title: "Netz39 e.V."
   url: "http://www.netz39.de/events/event/techtalk-monitoring-mit-icinga/"
+  cancelled: true
 
 - date: "25.03."
   time: "19:00"
@@ -25,6 +26,7 @@
   location: "Rathaus Magdeburg, Alter Markt 6"
   url_title: "usability-testessen.org"
   url: "https://usability-testessen.org/stadt/magdeburg/"
+  cancelled: true
 
 - date: "30.03."
   time: "18:00-21:30"
@@ -57,6 +59,7 @@
   location: "KUBUS 2025, Fürstenwallstraße 11"
   url_title: ""
   url: ""
+  cancelled: true
 
 - date: "15.04."
   time: "19:30-22:00"
@@ -65,6 +68,7 @@
   location: "Leibnizstr. 32"
   url_title: "Netz39 e.V."
   url: "http://www.netz39.de/events/event/linux-stammtisch-2/"
+  cancelled: true
 
 - date: "16.04."
   time: "17:00-19:00"
