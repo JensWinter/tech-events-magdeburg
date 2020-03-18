@@ -62,6 +62,15 @@
   url: ""
   cancelled: true
 
+- date: "09.04."
+  time: "18:00-21:00"
+  org: "Softwerkskammer Magdeburg"
+  title: "Abgesagt: Monatliches Treffen der SWK Magdeburg"
+  location: "nicht festgelegt"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/sggdprybcgbmb/"
+  cancelled: true
+
 - date: "15.04."
   time: "19:30-22:00"
   org: "Netz39 e.V."
