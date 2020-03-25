@@ -10,15 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "23.03."
-  time: "19:30-21:00"
-  org: "Netz39 e.V."
-  title: "TechTalk: Monitoring mit check_mk, icinga, prometheus und co"
-  location: "Leibnizstr. 32"
-  url_title: "Netz39 e.V."
-  url: "http://www.netz39.de/events/event/techtalk-monitoring-mit-icinga/"
-  cancelled: true
-
 - date: "25.03."
   time: "19:00"
   org: "Usability Testessen"
