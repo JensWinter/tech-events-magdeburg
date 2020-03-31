@@ -10,15 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "30.03."
-  time: "18:00-21:30"
-  org: "SAP UCC / BA Business Advice GmbH"
-  title: "SAP Stammtisch Magdeburg"
-  location: "SAP University Competence Center, Universitätsplatz 12"
-  url_title: "Infos und Registrierung auf Xing"
-  url: "https://www.xing.com/events/sap-stammtisch-magdeburg-2768400"
-  cancelled: true
-
 - date: "01.04."
   time: "18:30-20:30"
   org: "Cloud Natives Magdeburg"
