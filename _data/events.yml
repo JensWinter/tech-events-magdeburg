@@ -10,14 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "01.04."
-  time: "18:30-20:30"
-  org: "Cloud Natives Magdeburg"
-  title: "Kubernetes 101"
-  location: "Remote via Zoom"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/Cloud-Natives-Magdeburg/events/269215470"
-
 - date: "09.04."
   time: "17:00-19:00"
   org: "Otto-von-Guericke Universität Magdeburg"
