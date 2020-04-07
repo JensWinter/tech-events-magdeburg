@@ -53,6 +53,14 @@
   url_title: "autonomie.ovgu.de"
   url: "http://www.autonomie.ovgu.de/Termine.html"
 
+- date: "17./18.04."
+  time: ""
+  org: "dev-days-online"
+  title: "dev-days-online"
+  location: "www.dev-days-online.de"
+  url_title: "dev-days-online.de"
+  url: "https://www.dev-days-online.de/"
+
 - date: "21.04."
   time: "19:00-22:00"
   org: "TYPO3 Usergroup Magdeburg"
