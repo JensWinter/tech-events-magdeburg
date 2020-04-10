@@ -10,32 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "09.04."
-  time: "17:00-19:00"
-  org: "Otto-von-Guericke Universität Magdeburg"
-  title: "Ringvorlesung: Autonomie im digitalen Zeitalter?!"
-  location: "Hörsaal 6, Gebäude 44"
-  url_title: "autonomie.ovgu.de"
-  url: "http://www.autonomie.ovgu.de/Termine.html"
-
-- date: "09.04."
-  time: "18:00-20:00"
-  org: "OK Lab Magdeburg"
-  title: "Open Knowledge Lab Treffen"
-  location: "KUBUS 2025, Fürstenwallstraße 11"
-  url_title: ""
-  url: ""
-  cancelled: true
-
-- date: "09.04."
-  time: "18:00-21:00"
-  org: "Softwerkskammer Magdeburg"
-  title: "Abgesagt: Monatliches Treffen der SWK Magdeburg"
-  location: "nicht festgelegt"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/sggdprybcgbmb/"
-  cancelled: true
-
 - date: "15.04."
   time: "19:30-22:00"
   org: "Netz39 e.V."
