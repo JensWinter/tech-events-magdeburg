@@ -2,13 +2,5 @@
 # 
 # - name: "Name des Sponsors"
 #   logo_filename: "Dateiname der Logo-Datei. Diese muss sich im Verzeichnis assets/sponsors befinden"
-#   url: "Link zur Webseite des Sponsorss"
+#   url: "Link zur Webseite des Sponsors"
 #
-
-- name: "MrAppWare"
-  logo_filename: "MrAppWare.png"
-  url: "http://www.mrappware.de"
-
-- name: "advanto Software GmbH"
-  logo_filename: "advanto.png"
-  url: "http://www.advanto-software.de"
