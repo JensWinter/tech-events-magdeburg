@@ -10,31 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "15.04."
-  time: "19:30-22:00"
-  org: "Netz39 e.V."
-  title: "Linux-Stammtisch"
-  location: "Leibnizstr. 32"
-  url_title: "Netz39 e.V."
-  url: "http://www.netz39.de/events/event/linux-stammtisch-2/"
-  cancelled: true
-
-- date: "16.04."
-  time: "17:00-19:00"
-  org: "Otto-von-Guericke Universität Magdeburg"
-  title: "Ringvorlesung: Autonomie im digitalen Zeitalter?!"
-  location: "Hörsaal 6, Gebäude 44"
-  url_title: "autonomie.ovgu.de"
-  url: "http://www.autonomie.ovgu.de/Termine.html"
-
-- date: "17./18.04."
-  time: ""
-  org: "dev-days-online"
-  title: "dev-days-online"
-  location: "www.dev-days-online.de"
-  url_title: "dev-days-online.de"
-  url: "https://www.dev-days-online.de/"
-
 - date: "21.04."
   time: "19:00-22:00"
   org: "TYPO3 Usergroup Magdeburg"
@@ -42,11 +17,3 @@
   location: "https://meet.jit.si/TYPO3-UserGroup-Magdeburg-21-04-2020"
   url_title: "Meetup.com"
   url: "https://www.meetup.com/TYPO3-UserGroup-Magdeburg/events/268395026/"
-
-- date: "23.04."
-  time: "17:00-19:00"
-  org: "Otto-von-Guericke Universität Magdeburg"
-  title: "Ringvorlesung: Autonomie im digitalen Zeitalter?!"
-  location: "Hörsaal 6, Gebäude 44"
-  url_title: "autonomie.ovgu.de"
-  url: "http://www.autonomie.ovgu.de/Termine.html"
