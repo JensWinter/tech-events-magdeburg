@@ -9,11 +9,3 @@
 #   url: "Externer Link für die Veranstaltung"
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
-
-- date: "21.04."
-  time: "19:00-22:00"
-  org: "TYPO3 Usergroup Magdeburg"
-  title: "TYPO3 Usergroup-Treffen"
-  location: "https://meet.jit.si/TYPO3-UserGroup-Magdeburg-21-04-2020"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/TYPO3-UserGroup-Magdeburg/events/268395026/"
