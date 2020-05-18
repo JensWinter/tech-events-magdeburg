@@ -9,3 +9,11 @@
 #   url: "Externer Link für die Veranstaltung"
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
+- date: "25.05."
+  time: "19:00-20:30"
+  org: "SAP UCC / BA Business Advice GmbH"
+  title: "SAP Stammtisch Magdeburg"
+  location: "Virtuelles Online-Meeting"
+  url_title: "Infos und Registrierung auf Xing"
+  url: "https://www.xing.com/communities/groups/sap-stammtisch-magdeburg-950f-1104912/about"
+
