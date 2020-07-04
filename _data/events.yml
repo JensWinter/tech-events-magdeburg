@@ -9,10 +9,10 @@
 #   url: "Externer Link für die Veranstaltung"
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
-- date: "11.06."
+- date: "09.07."
   time: "18:00-21:00"
   org: "Softwerkskammer Magdeburg"
-  title: "Online Talk: Functional CSS — Was soll all der Hype?"
+  title: "Online Talk: Steuerrecht für ITler im Haupt- und Nebenerwerb"
   location: "Die endlosen Weiten des Internets - Genaue URLs werden noch bekannt gegeben"
   url_title: "Meetup.com"
-  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/cvxhsrybcjbpb/"
+  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/cvxhsrybckbmb/"
