@@ -9,10 +9,19 @@
 #   url: "Externer Link für die Veranstaltung"
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
-- date: "09.07."
-  time: "18:00-21:00"
-  org: "Softwerkskammer Magdeburg"
-  title: "Online Talk: Steuerrecht für ITler im Haupt- und Nebenerwerb"
-  location: "Die endlosen Weiten des Internets - Genaue URLs werden noch bekannt gegeben"
+
+- date: "22.07."
+  time: "19:00-21:00"
+  org: "TYPO3 Usergroup Magdeburg"
+  title: "TYPO3 Usergroup-Treffen"
+  location: "tba"
   url_title: "Meetup.com"
-  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/cvxhsrybckbmb/"
+  url: "https://www.meetup.com/TYPO3-UserGroup-Magdeburg/events/270182944"
+
+- date: "13.08."
+  time: "18:00-20:00"
+  org: "Softwerkskammer Magdeburg"
+  title: "Monatliches Treffen der Softwerkskammer Magdeburg"
+  location: "tba"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/Softwerkskammer-Magdeburg/events/cvxhsrybclbrb/"
