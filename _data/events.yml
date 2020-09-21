@@ -10,14 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "15.09."
-  time: "18:30-21:30"
-  org: "Agile Magdeburg"
-  title: "Agile Magdeburg Vol. 6"
-  location: "Virtuell (Link im Meetup-Event)"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/Agile-Magdeburg/events/272672930/"
-
 - date: "24.09."
   time: "18:00-20:00"
   org: "Softwerkskammer Magdeburg"
