@@ -10,14 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "14.10."
-  time: "17:00-18:00"
-  org: "IBM Client Innovation Center Magdeburg"
-  title: "What is Serverless?"
-  location: "Virtuell (Link im Meetup-Event)"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/CIC4Developer/events/273901107/"
-
 - date: "20.10."
   time: "16:00-17:00"
   org: "IBM Client Innovation Center Magdeburg"
@@ -34,3 +26,10 @@
   url_title: "Meetup.com"
   url: "https://www.meetup.com/CIC4Developer/events/273818921/"
 
+- date: "29.10."
+  time: "17:00-18:00"
+  org: "IBM Client Innovation Center Magdeburg"
+  title: "What is Serverless?"
+  location: "Virtuell (Link im Meetup-Event)"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/CIC4Developer/events/273901107/"
