@@ -33,3 +33,11 @@
   location: "Virtuell (Link im Meetup-Event)"
   url_title: "Meetup.com"
   url: "https://www.meetup.com/CIC4Developer/events/273901107/"
+
+- date: "05.11."
+  time: "12:00-13:00"
+  org: "IBM Client Innovation Center Magdeburg"
+  title: "IBM Cloud Code Engine: Run Your Source Code, Containers, Batch Jobs - Serverless"
+  location: "Virtuell (Link im Meetup-Event)"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/CIC4Developer/events/273973957/"
