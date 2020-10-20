@@ -10,14 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "20.10."
-  time: "16:00-17:00"
-  org: "IBM Client Innovation Center Magdeburg"
-  title: "Build a chatbot with Watson Assistant"
-  location: "Virtuell (Link im Meetup-Event)"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/CIC4Developer/events/273817685/"
-
 - date: "27.10."
   time: "17:00-18:00"
   org: "IBM Client Innovation Center Magdeburg"
