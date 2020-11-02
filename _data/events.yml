@@ -41,3 +41,11 @@
   location: "Virtuell (Link im Meetup-Event)"
   url_title: "Meetup.com"
   url: "https://www.meetup.com/CIC4Developer/events/274053280/"
+
+- date: "12.11."
+  time: "18:00-20:00"
+  org: "Softwerkskammer Magdeburg"
+  title: "Online Coding Dojo: Kata Mars Rover"
+  location: "Online Meeting - URLs werden noch bekannt gegeben"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/cvxhsrybcpbqb/"
