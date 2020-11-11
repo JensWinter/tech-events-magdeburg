@@ -10,30 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "04.11."
-  time: "16:00-17:00"
-  org: "IBM Client Innovation Center Magdeburg"
-  title: "Modern Enterprise Architectures with Enterprise IT Systems - Legacy or Goldmine?"
-  location: "Virtuell (Link im Meetup-Event)"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/CIC4Developer/events/274103522/"
-
-- date: "05.11."
-  time: "12:00-13:00"
-  org: "IBM Client Innovation Center Magdeburg"
-  title: "IBM Cloud Code Engine: Run Your Source Code, Containers, Batch Jobs - Serverless"
-  location: "Virtuell (Link im Meetup-Event)"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/CIC4Developer/events/273973957/"
-
-- date: "11.11."
-  time: "17:00-18:00"
-  org: "IBM Client Innovation Center Magdeburg"
-  title: "Actionable Decisions from Data Science"
-  location: "Virtuell (Link im Meetup-Event)"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/CIC4Developer/events/274053280/"
-
 - date: "12.11."
   time: "18:00-20:00"
   org: "Softwerkskammer Magdeburg"
