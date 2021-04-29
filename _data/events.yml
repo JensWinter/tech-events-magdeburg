@@ -10,10 +10,10 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "28.04."
+- date: "26.05."
   time: "18:00-20:00"
   org: "Softwerkskammer Magdeburg"
-  title: "Online Lean Kaffee"
-  location: "Online Meeting - URLs werden noch bekannt gegeben"
+  title: "Talk: Fingerabdruck-Authentifizierung"
+  location: "Online Meeting"
   url_title: "Meetup.com"
-  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/277671393/"
+  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/277878583/"
