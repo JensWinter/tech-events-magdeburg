@@ -10,10 +10,10 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "30.06."
+- date: "25.08."
   time: "19:00-21:00"
   org: "Softwerkskammer Magdeburg"
-  title: "Talk: Ab jetzt mach ich es selbst​ - Community Events technisch umsetzen"
+  title: "Talk: Authentifizierung und Autorisierung mit OAuth 2 und OpenID Connect"
   location: "Online Meeting"
   url_title: "Meetup.com"
-  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/278835980/"
+  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/280025953/"
