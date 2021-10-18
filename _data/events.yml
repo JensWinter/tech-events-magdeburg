@@ -10,10 +10,10 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "29.09."
+- date: "27.10."
   time: "19:00-21:00"
   org: "Softwerkskammer Magdeburg"
-  title: "Vortrag: Atomic Design"
+  title: "Online Coding Dojo"
   location: "Online Meeting"
   url_title: "Meetup.com"
-  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/280601326/"
+  url: "https://www.meetup.com/de-DE/Softwerkskammer-Magdeburg/events/281509123/"
