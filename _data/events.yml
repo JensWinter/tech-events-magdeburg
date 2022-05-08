@@ -25,3 +25,11 @@
   location: "UniNow, Budenbergstr. 10"
   url_title: "Meetup.com"
   url: "https://www.meetup.com/Tech-Meetups-Magdeburg/events/284093451"
+  
+- date: "30.05."
+  time: "18:00-20:00"
+  org: "OK Lab Magdeburg"
+  title: "Open Knowledge Lab Treffen"
+  location: "tba"
+  url_title: ""
+  url: ""
