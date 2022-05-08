@@ -33,3 +33,11 @@
   location: "tba"
   url_title: ""
   url: ""
+
+- date: "07.07."
+  time: "18:30:-20:30"
+  org: "Tech Meetups Magdeburg"
+  title: "Detox for your React Native App - E2E UI Testing explained"
+  location: "UniNow, Budenbergstr. 10"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/Tech-Meetups-Magdeburg/events/284401562"
