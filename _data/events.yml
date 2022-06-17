@@ -9,7 +9,15 @@
 #   url: "Externer Link für die Veranstaltung"
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
-  
+
+- date: "24.06.-26.06"
+  time: "17:00"
+  org: "Acagamics e.V."
+  title: "GAMEJAM!"
+  location: "Otto-von-Guericke-Universität G29-307"
+  url_title: "Jetzt mitmachen"
+  url: "https://gamejam.de/aktueller-gamejam/"
+
 - date: "05.07."
   time: "18:30:-20:30"
   org: "Tech Meetups Magdeburg"
@@ -25,7 +33,7 @@
   location: "SAP University Competence Center, Universitätsplatz 12"
   url_title: "Infos und Registrierung auf Xing"
   url: "https://www.xing.com/events/sap-stammtisch-magdeburg-juli-2022-3982261"
-  
+
 - date: "04.08."
   time: "18:30:-20:30"
   org: "Tech Meetups Magdeburg"
