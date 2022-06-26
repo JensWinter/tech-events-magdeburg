@@ -10,13 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "24.06.-26.06"
-  time: "17:00"
-  org: "Acagamics e.V."
-  title: "GAMEJAM!"
-  location: "Otto-von-Guericke-Universität G29-307"
-  url_title: "Jetzt mitmachen"
-  url: "https://gamejam.de/aktueller-gamejam/"
 
 - date: "05.07."
   time: "18:30:-20:30"
