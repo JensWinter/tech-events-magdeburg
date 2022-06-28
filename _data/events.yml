@@ -10,7 +10,7 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "29.06."
+- date: "Mi 29.06."
   time: "19:00:-23:00"
   org: "Netz39 e.V."
   title: "Freies Hacken"
@@ -18,7 +18,7 @@
   url_title: "Netz39.de"
   url: "https://www.netz39.de/events/event/freies-hacken-2/"
 
-- date: "02.07."
+- date: "Sa 02.07."
   time: "16:00:-20:00"
   org: "Softwerke Magdeburg e.V."
   title: "Softwerke Magdeburg Stammtisch"
@@ -26,7 +26,7 @@
   url_title: "softwerke.md"
   url: "https://softwerke.md/"
 
-- date: "05.07."
+- date: "Di 05.07."
   time: "18:30:-20:30"
   org: "Tech Meetups Magdeburg"
   title: "Detox for your React Native App - E2E UI Testing explained"
@@ -34,7 +34,7 @@
   url_title: "Meetup.com"
   url: "https://www.meetup.com/Tech-Meetups-Magdeburg/events/284401562"
 
-- date: "11.07."
+- date: "Mo 11.07."
   time: "18:30-22:00"
   org: "SAP UCC / BA Business Advice GmbH"
   title: "SAP Stammtischtreffen Juli 2022"
@@ -42,7 +42,7 @@
   url_title: "Infos und Registrierung auf Xing"
   url: "https://www.xing.com/events/sap-stammtisch-magdeburg-juli-2022-3982261"
 
-- date: "12.07."
+- date: "Di 12.07."
   time: "18:30-20:30"
   org: "OK Lab Magdeburg"
   title: "Open Knowledge Lab Treffen"
@@ -50,7 +50,7 @@
   url_title: ""
   url: ""
 
-- date: "13.07."
+- date: "Mi 13.07."
   time: "19:00:-23:00"
   org: "Netz39 e.V."
   title: "Freies Hacken"
@@ -58,7 +58,7 @@
   url_title: "Netz39.de"
   url: "https://www.netz39.de/events/event/freies-hacken-2/"
 
-- date: "20.07."
+- date: "Mi 20.07."
   time: "19:00:-23:00"
   org: "Netz39 e.V."
   title: "Freies Hacken"
@@ -66,7 +66,7 @@
   url_title: "Netz39.de"
   url: "https://www.netz39.de/events/event/freies-hacken-2/"
 
-- date: "03.08."
+- date: "Mi 03.08."
   time: "19:00:-23:00"
   org: "Netz39 e.V."
   title: "Freies Hacken"
@@ -74,7 +74,7 @@
   url_title: "Netz39.de"
   url: "https://www.netz39.de/events/event/freies-hacken-2/"
 
-- date: "04.08."
+- date: "Do 04.08."
   time: "18:30:-20:30"
   org: "Tech Meetups Magdeburg"
   title: "Disaster Recovery for Kuberentes"
@@ -82,7 +82,7 @@
   url_title: "Meetup.com"
   url: "https://www.meetup.com/tech-meetups-magdeburg/events/285369050/"
 
-- date: "06.08."
+- date: "Sa 06.08."
   time: "16:00:-20:00"
   org: "Softwerke Magdeburg e.V."
   title: "Softwerke Magdeburg Stammtisch"
@@ -90,7 +90,7 @@
   url_title: "softwerke.md"
   url: "https://softwerke.md/"
 
-- date: "10.08."
+- date: "Mi 10.08."
   time: "19:00:-23:00"
   org: "Netz39 e.V."
   title: "Freies Hacken"
@@ -98,7 +98,7 @@
   url_title: "Netz39.de"
   url: "https://www.netz39.de/events/event/freies-hacken-2/"
 
-- date: "24.08."
+- date: "Mi 24.08."
   time: "19:00:-23:00"
   org: "Netz39 e.V."
   title: "Freies Hacken"
