@@ -113,3 +113,11 @@
   location: "Netz39 e.V., Leibnizstraße 32"
   url_title: "Netz39.de"
   url: "https://www.netz39.de/events/event/freies-hacken-2/"
+
+- date: "Do 01.09."
+  time: "18:30-20:30"
+  org: "Tech Meetups Magdeburg"
+  title: "Build in a weekend. Scale to millions - Introduction to supabase"
+  location: "UniNow, Budenbergstr. 10"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/tech-meetups-magdeburg/events/285739612/"
