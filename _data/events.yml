@@ -66,6 +66,14 @@
   url_title: "Netz39.de"
   url: "https://www.netz39.de/events/event/freies-hacken-2/"
 
+- date: "Mi 31.08."
+  time: "19:00-23:00"
+  org: "Netz39 e.V."
+  title: "Freies Hacken"
+  location: "Netz39 e.V., Leibnizstraße 32"
+  url_title: "Netz39.de"
+  url: "https://www.netz39.de/events/event/freies-hacken-2/"
+
 - date: "Do 01.09."
   time: "18:30-20:30"
   org: "Tech Meetups Magdeburg"
@@ -81,3 +89,11 @@
   location: "Tacheles vom platz*machen e. V., Sternstr. 30"
   url_title: "softwerke.md"
   url: "https://softwerke.md/"
+
+- date: "Mi 14.09."
+  time: "19:00-23:00"
+  org: "Netz39 e.V."
+  title: "Freies Hacken"
+  location: "Netz39 e.V., Leibnizstraße 32"
+  url_title: "Netz39.de"
+  url: "https://www.netz39.de/events/event/freies-hacken-2/"
