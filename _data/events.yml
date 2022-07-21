@@ -25,6 +25,14 @@
   location: "UniNow, Budenbergstr. 10"
   url_title: "Meetup.com"
   url: "https://www.meetup.com/tech-meetups-magdeburg/events/285369050/"
+  
+- date: "Do 04.08."
+  time: "19:00-22:00"
+  org: "TYPO3 Usergroup Magdeburg"
+  title: "TYPO3 Usergroup"
+  location: "MÜNSMEDIA GmbH, Schönebecker Str. 54"
+  url_title: "Meetup.com"
+  url: "https://www.meetup.com/typo3-usergroup-magdeburg/events/287299330"
 
 - date: "Sa 06.08."
   time: "16:00-20:00"
