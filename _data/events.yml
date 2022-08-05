@@ -10,30 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "Mi 03.08."
-  time: "19:00-23:00"
-  org: "Netz39 e.V."
-  title: "Freies Hacken"
-  location: "Netz39 e.V., Leibnizstraße 32"
-  url_title: "Netz39.de"
-  url: "https://www.netz39.de/events/event/freies-hacken-2/"
-
-- date: "Do 04.08."
-  time: "18:30-20:30"
-  org: "Tech Meetups Magdeburg"
-  title: "Disaster Recovery for Kubernetes"
-  location: "UniNow, Budenbergstr. 10"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/tech-meetups-magdeburg/events/285369050/"
-  
-- date: "Do 04.08."
-  time: "19:00-22:00"
-  org: "TYPO3 Usergroup Magdeburg"
-  title: "TYPO3 Usergroup"
-  location: "MÜNSMEDIA GmbH, Schönebecker Str. 54"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/typo3-usergroup-magdeburg/events/287299330"
-
 - date: "Sa 06.08."
   time: "16:00-20:00"
   org: "Softwerke Magdeburg e.V."
