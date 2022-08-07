@@ -10,14 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "Sa 06.08."
-  time: "16:00-20:00"
-  org: "Softwerke Magdeburg e.V."
-  title: "Softwerke Magdeburg Stammtisch"
-  location: "Stein an der Sternbrücke"
-  url_title: "softwerke.md"
-  url: "https://softwerke.md/"
-
 - date: "Mo 08.08."
   time: "15:00-16:30"
   org: "Stadtbibliothek Magdeburg"
