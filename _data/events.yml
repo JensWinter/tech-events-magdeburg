@@ -10,22 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "Mo 08.08."
-  time: "15:00-16:30"
-  org: "Stadtbibliothek Magdeburg"
-  title: "\"Digital im besten Alter\" - der Social Media Stammtisch für Ü60"
-  location: "Breiter Weg 109"
-  url_title: "stadtbibliothek.magdeburg.de/"
-  url: "https://stadtbibliothek.magdeburg.de/Veranstaltungen/EventID/670/CRC/B4A11F642DE7567060931DD371164EFD/quot-Digital-im-besten-Alter-quot-der-Social-Media-Stammtisch-f%C3%BCr-%C3%9C60"
-
-- date: "Mi 10.08."
-  time: "19:00-23:00"
-  org: "Netz39 e.V."
-  title: "Freies Hacken"
-  location: "Netz39 e.V., Leibnizstraße 32"
-  url_title: "Netz39.de"
-  url: "https://www.netz39.de/events/event/freies-hacken-2/"
-
 - date: "Mi 24.08."
   time: "19:00-23:00"
   org: "Netz39 e.V."
