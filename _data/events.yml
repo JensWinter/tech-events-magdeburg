@@ -10,14 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "Sa 03.09."
-  time: "16:00-20:00"
-  org: "Softwerke Magdeburg e.V."
-  title: "Softwerke Magdeburg Stammtisch"
-  location: "Stein an der Sternbrücke"
-  url_title: "softwerke.md"
-  url: "https://softwerke.md/"
-
 - date: "12./13.09."
   time: "ganztags"
   org: "ACC2022"
