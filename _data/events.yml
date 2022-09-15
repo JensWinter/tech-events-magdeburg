@@ -10,14 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "Do 15.09."
-  time: "19:00-21:00"
-  org: "Tech Meetups Magdeburg"
-  title: "IDaas: Never build a login again? Up and Downsides of using Auth0 in our product"
-  location: "marmalade GmbH"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/tech-meetups-magdeburg/events/288202454"
-
 - date: "Mi 20.09."
   time: "19:30"
   org: "BÜNDNIS 90/Die Grünen Sachsen-Anhalt"
