@@ -10,14 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "Mi 14.09."
-  time: "19:00-23:00"
-  org: "Netz39 e.V."
-  title: "Freies Hacken"
-  location: "Netz39 e.V., Leibnizstraße 32"
-  url_title: "Netz39.de"
-  url: "https://www.netz39.de/events/event/freies-hacken-2/"
-  
 - date: "Do 15.09."
   time: "19:00-21:00"
   org: "Tech Meetups Magdeburg"
