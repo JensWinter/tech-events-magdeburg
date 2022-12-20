@@ -10,38 +10,6 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
-- date: "Mi 12.10."
-  time: "19:00-23:00"
-  org: "Netz39 e.V."
-  title: "Freies Hacken"
-  location: "Netz39 e.V., Leibnizstraße 32"
-  url_title: "Netz39.de"
-  url: "https://www.netz39.de/events/event/freies-hacken-2/"
-  
-- date: "Mi 26.10."
-  time: "19:00-23:00"
-  org: "Netz39 e.V."
-  title: "Freies Hacken"
-  location: "Netz39 e.V., Leibnizstraße 32"
-  url_title: "Netz39.de"
-  url: "https://www.netz39.de/events/event/freies-hacken-2/"
-  
-- date: "Mi 02.11."
-  time: "19:00-23:00"
-  org: "Netz39 e.V."
-  title: "Freies Hacken"
-  location: "Netz39 e.V., Leibnizstraße 32"
-  url_title: "Netz39.de"
-  url: "https://www.netz39.de/events/event/freies-hacken-2/"
-  
-- date: "Do 03.11."
-  time: "19:30-21:30"
-  org: "Tech Meetups Magdeburg"
-  title: "Design and engineer a component library"
-  location: "UniNow, Budenbergstr. 10"
-  url_title: "Meetup.com"
-  url: "https://www.meetup.com/tech-meetups-magdeburg/events/288178234"
-
 - date: "Mo 30.01."
   time: "19:00-22:00"
   org: "SAP UCC, BA"
