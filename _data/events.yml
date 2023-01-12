@@ -10,6 +10,14 @@
 #   cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
 #
 
+- date: "Mo 16.01."
+  time: "19:30-21:00"
+  org: "Netz39 e.V."
+  title: "Freifunk-Treffen"
+  location: "Netz39 e.V., Leibnizstr. 32"
+  url_title: "weitere Infos"
+  url: "https://www.netz39.de/events/event/freifunk-treffen-3/"
+
 - date: "Mo 30.01."
   time: "19:00-22:00"
   org: "SAP UCC, BA"
