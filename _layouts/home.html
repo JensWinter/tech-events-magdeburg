@@ -6,7 +6,8 @@ layout: default
 
     var events = [];
 
-    {% for event in site.data.events -%}
+    {% for event_hash in site.data.events -%}
+    {% assign event = event_hash[1] %}
     {% if event.cancelled -%}
     //events.push(['{{event.date}}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
     {% else -%}
