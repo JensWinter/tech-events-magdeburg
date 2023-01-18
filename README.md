@@ -11,11 +11,22 @@
 2. Tech-Interessierte erhalten sehr einfach einen Überblick über die aktuellen Veranstaltungen in der Nähe.
 
 ## So funktioniert's
-Die Liste der aktuellen Events befindet sich in der Datei [_data/events.yml](https://github.com/JensWinter/tech-events-magdeburg/blob/gh-pages/_data/events.yml) im gh-pages Branch. Ihr als Veranstalter von IT-Events tragt eure aktuellen Termine dort an der entsprechenden Stelle ein. Die erforderlichen Daten sind
-- Zeit
-- Ort
-- Thema
-- Veranstalter
+Die Events befinden sich in je einer Datei pro Event im Verzeichnis [_data/events/](https://github.com/JensWinter/tech-events-magdeburg/blob/gh-pages/_data/events/) im gh-pages Branch. Ihr als Veranstalter von IT-Events legt dort eine Datei mit eurem Termin an.
+
+Die Datei muss die folgende Form haben:
+```yaml
+---
+date: "Tag der Veranstaltung"
+time: "Uhrzeit/Zeitraum der Veranstaltung"
+org: "Wer richtet die Veranstaltung aus?"
+title: "Name der Veranstaltung"
+location: "Wo findet die Veranstaltung statt?"
+url_title: "Kurze Bezeichnung für externen Link"
+url: "Externer Link für die Veranstaltung"
+cancelled: true/false (Optional, abgesagte Events erhalten eine entsprechende Markierung)
+```
+
+Als Dateiname wird empfohlen: `YYYY-MM-DD_Org_Event-Name`
 
 Schickt dann einfach einen Pull-Requests und die Änderungen werden zeitnah übernommen.
 

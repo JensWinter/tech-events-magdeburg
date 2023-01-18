@@ -20,7 +20,8 @@ layout: null
   <author
     ><name>{{ site.author | xml_escape }}</name></author
   >
-  {% for event in site.data.events -%}
+  {% for event_hash in site.data.events -%}
+  {% assign event = event_hash[1] %}
   <entry>
     <title type="html">{{ event.org | xml_escape }}</title>
     <link

@@ -17,7 +17,8 @@ title: Tech Events Magdeburg
         </tr>
     </thead>
     <tbody>
-        {% for event in site.data.events -%}
+        {% for event_hash in site.data.events -%}
+        {% assign event = event_hash[1] %}
         <tr>
             {% if event.cancelled %}<td style="color: red;">{{ event.date }} <i class="fas fa-exclamation-triangle"></i> abgesagt</td>{% else %}<td>{{ event.date }}</td>{% endif %}
             {% if event.cancelled %}<td style="color: red;">{{ event.time }}</td>{% else %}<td>{{ event.time }}</td>{% endif %}
