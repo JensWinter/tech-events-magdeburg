@@ -5,6 +5,12 @@
 layout: home
 title: Tech Events Magdeburg
 ---
+{% assign events = site.emptyArray %}
+{% for event_hash in site.data.events %}
+  {% assign events = events | push: event_hash[1] %}
+{% endfor %}
+
+{% assign events_date = events | sort: 'date' %}
 
 <table>
     <thead>
@@ -17,8 +23,7 @@ title: Tech Events Magdeburg
         </tr>
     </thead>
     <tbody>
-        {% for event_hash in site.data.events -%}
-        {% assign event = event_hash[1] %}
+        {% for event in events_date -%}
         <tr>
             {% if event.cancelled %}<td style="color: red;">{{ event.date }} <i class="fas fa-exclamation-triangle"></i> abgesagt</td>{% else %}<td>{{ event.date }}</td>{% endif %}
             {% if event.cancelled %}<td style="color: red;">{{ event.time }}</td>{% else %}<td>{{ event.time }}</td>{% endif %}
