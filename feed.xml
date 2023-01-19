@@ -5,6 +5,13 @@ layout: null
   xmlns="http://www.w3.org/2005/Atom"
   xml:lang="de"
 >
+  {% assign events = site.emptyArray %}
+  {% for event_hash in site.data.events %}
+  {% assign events = events | push: event_hash[1] %}
+  {% endfor %}
+
+  {% assign events_date = events | sort: 'date' %}
+
   <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
   <link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}"
   rel="self" type="application/atom+xml" /><link
@@ -20,8 +27,7 @@ layout: null
   <author
     ><name>{{ site.author | xml_escape }}</name></author
   >
-  {% for event_hash in site.data.events -%}
-  {% assign event = event_hash[1] %}
+  {% for event in events_date -%}
   <entry>
     <title type="html">{{ event.org | xml_escape }}</title>
     <link

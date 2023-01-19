@@ -16,7 +16,7 @@ Die Events befinden sich in je einer Datei pro Event im Verzeichnis [_data/event
 Die Datei muss die folgende Form haben:
 ```yaml
 ---
-date: "Tag der Veranstaltung"
+date: "Tag der Veranstaltung im Format YYYY-MM-DD (ISO8601)"
 time: "Uhrzeit/Zeitraum der Veranstaltung"
 org: "Wer richtet die Veranstaltung aus?"
 title: "Name der Veranstaltung"

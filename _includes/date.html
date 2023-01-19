@@ -1,0 +1,11 @@
+{% assign dow = include.date | date: "%-w" -%}
+{% case dow -%}
+{% when '0' -%}{{"So "-}}
+{% when '1' -%}{{"Mo "-}}
+{% when '2' -%}{{"Di "-}}
+{% when '3' -%}{{"Mi "-}}
+{% when '4' -%}{{"Do "-}}
+{% when '5' -%}{{"Fr "-}}
+{% when '6' -%}{{"Sa "-}}
+{% endcase -%}
+{{ include.date | date: "%d.%m" -}}
