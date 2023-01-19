@@ -13,9 +13,9 @@ layout: default
 
     {% for event in events_date -%}
     {% if event.cancelled -%}
-    //events.push(['{{event.date}}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
+    //events.push(['{% include date.html date=event.date %}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
     {% else -%}
-    events.push(['{{event.date}}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
+    events.push(['{% include date.html date=event.date %}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
     {% endif %}
     {% endfor %}
 
