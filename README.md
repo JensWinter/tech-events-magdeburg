@@ -11,7 +11,7 @@
 2. Tech-Interessierte erhalten sehr einfach einen Überblick über die aktuellen Veranstaltungen in der Nähe.
 
 ## So funktioniert's
-Die Events befinden sich in je einer Datei pro Event im Verzeichnis [_data/events/](https://github.com/JensWinter/tech-events-magdeburg/blob/gh-pages/_data/events/) im gh-pages Branch. Ihr als Veranstalter von IT-Events legt dort eine Datei mit eurem Termin an.
+Die Events befinden sich in je einer Datei pro Event im Verzeichnis [_data/events/](https://github.com/JensWinter/tech-events-magdeburg/tree/master/_data/events). Ihr als Veranstalter von IT-Events legt dort eine Datei mit eurem Termin an.
 
 Die Datei muss die folgende Form haben:
 ```yaml

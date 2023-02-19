@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{% assign events = site.emptyArray %}
+{% for event_hash in site.data.events %}
+  {% assign events = events | push: event_hash[1] %}
+{% endfor %}
+
+{% assign events_date = events | sort: 'date' %}
+
+<script>
+    var events = [];
+
+    {% for event in events_date -%}
+    {% if event.cancelled -%}
+    //events.push(['{% include date.html date=event.date %}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
+    {% else -%}
+    events.push(['{% include date.html date=event.date %}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
+    {% endif %}
+    {% endfor %}
+
+</script>
+
+<div class="home">
+    <small><a href="javascript:openPdf(events);" id="download-pdf" style="float: right; margin-top: 25px;">PDF herunterladen</a></small>
+    {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+    {%- endif -%}
+
+    {{ content }}
+</div>

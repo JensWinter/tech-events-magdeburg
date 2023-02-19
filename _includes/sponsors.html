@@ -1,0 +1,13 @@
+{% if site.data.sponsors == "mac" %}
+<span style="color: #666666;">Mit freundlicher <a href="{{ site.baseurl }}/unterstuetzer-werden">Unterstützung</a> von</span>
+{% endif %}
+
+<div style="margin-bottom: 100px;">
+    {% for sponsor in site.data.sponsors %}
+    {% if sponsor.name != "" %}
+    <a href="{{ sponsor.url | relative_url }}" style="margin-right: 30px;" target="_blank">
+        <img style="width: 150px; margin-top: 20px;" src="{{ 'assets/sponsors/' | relative_url }}{{ sponsor.logo_filename }}">
+    </a>
+    {% endif %}
+    {% endfor %}
+</div>

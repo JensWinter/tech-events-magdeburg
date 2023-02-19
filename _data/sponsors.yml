@@ -1,0 +1,6 @@
+# Pro Sponsor muss ein Block mit den folgenden Angaben angelegt werden:
+# 
+# - name: "Name des Sponsors"
+#   logo_filename: "Dateiname der Logo-Datei. Diese muss sich im Verzeichnis assets/sponsors befinden"
+#   url: "Link zur Webseite des Sponsors"
+#

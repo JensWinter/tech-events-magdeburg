@@ -1,0 +1,31 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+    <div class="wrapper">
+
+        <div class="footer-col-wrapper">
+            <div class="footer-col footer-col-1">
+                {%- include social.html -%}
+                <!--a href="{{ site.baseurl }}/veranstaltung-melden">Veranstaltung melden</a><br-->
+                <a href="{{ site.baseurl }}/unterstuetzer-werden">Unterstützer*in werden</a><br>
+                <a href="{{ site.baseurl }}/impressum">Impressum</a>
+            </div>
+
+            <div class="footer-col footer-col-2">
+                {% comment %}
+                {%- include social.html -%}
+                {% endcomment %}
+                <a href='https://ko-fi.com/Q5Q415BOM' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+            </div>
+
+            <div class="footer-col footer-col-3">
+                <a href="http://www.netz39.de" target="_blank" style="margin-right: 20px;"><img style="width: 100px;" src="{{ 'assets/netz39.png' | relative_url }}"></a>
+                <a href="https://codefor.de/magdeburg" target="_blank" style="margin-right: 20px;"><img style="height: 50px;" src="{{ 'assets/CodeForMagdeburg.png' | relative_url }}"></a>
+                <a href="https://www.softwerkskammer.org/groups/magdeburg" target="_blank" style="margin-right: 20px;"><img style="height: 50px;" src="{{ 'assets/SWK_Magdeburg.png' | relative_url }}"></a>
+                <a href="https://softwerke.md" target="_blank"><img style="height: 35px;" src="{{ 'assets/softwerke_logo.svg'}}"></a>
+            </div>
+        </div>
+
+    </div>
+
+</footer>
