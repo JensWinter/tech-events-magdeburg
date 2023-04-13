@@ -55,5 +55,9 @@ Die aktuelle Terminliste steht dann jedem unter http://tech-events-magdeburg.de 
 - Kurze und knappe, nur wirklich notwendige Angaben
 - Achtung bei personenbezogenen Daten! Nur zulässige Angaben verwenden (z.B. Namen von Speaker*innen, falls Zustimmung vorliegt)
 
+## Lokal testen
+
+Wenn ihr nicht sicher seid, wie die Änderungen aussehen oder ob sie euren Vorstellungen entsprechen, könnt ihr die Seite lokal testen. Folgt dazu bitte der [Anleitung von GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) CC0 1.0 Universal
