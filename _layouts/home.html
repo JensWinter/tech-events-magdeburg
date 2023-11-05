@@ -7,16 +7,20 @@ layout: default
 {% endfor %}
 
 {% assign events_date = events | sort: 'date' %}
+{% capture nowunix %}{{'now' | date: '%s' | plus: 0}}{% endcapture %}
 
 <script>
     var events = [];
 
     {% for event in events_date -%}
-    {% if event.cancelled -%}
-    //events.push(['{% include date.html date=event.date %}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
-    {% else -%}
-    events.push(['{% include date.html date=event.date %}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
-    {% endif %}
+        {% capture eventtime %}{{event.date | date: '%s' | plus: 84600}}{% endcapture %}
+        {% if (eventtime > nowunix) %}
+            {% if event.cancelled -%}
+            //events.push(['{% include date.html date=event.date %}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
+            {% else -%}
+            events.push(['{% include date.html date=event.date %}\n{{event.time}}', '{{event.org}}', '{{event.title}}', '{{event.location}}']);
+            {% endif %}
+        {% endif %}
     {% endfor %}
 
 </script>
