@@ -55,9 +55,18 @@ Die aktuelle Terminliste steht dann jedem unter http://tech-events-magdeburg.de 
 - Kurze und knappe, nur wirklich notwendige Angaben
 - Achtung bei personenbezogenen Daten! Nur zulässige Angaben verwenden (z.B. Namen von Speaker*innen, falls Zustimmung vorliegt)
 
-## Lokal testen
+## Installation und lokale Entwicklung mit Docker:
 
-Wenn ihr nicht sicher seid, wie die Änderungen aussehen oder ob sie euren Vorstellungen entsprechen, könnt ihr die Seite lokal testen. Folgt dazu bitte der [Anleitung von GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+1. Docker und Docker Compose auf deinem System installieren
+2. Docker Container im root-Verzeichnis starten:
+   ```bash
+   docker-compose up
+   ```
+
+   Der Jekyll-Buildserver wird nun in einem Docker-Container gestartet und ist unter `http://localhost:4000` verfügbar. Du kannst Änderungen vornehmen, und sie werden automatisch in Echtzeit aktualisiert. Mit Strg+C könnt ihr diesen Container beenden.
+3. Nach der Entwicklung den Container mit `docker-compose down` beenden.
+
+Wenn ihr docker-compose nicht verwenden wollt, könnt ihr für lokale Tests der [Anleitung von GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) folgen.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) CC0 1.0 Universal

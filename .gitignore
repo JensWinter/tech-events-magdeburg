@@ -1,5 +1,25 @@
-_site
-.sass-cache
-.jekyll-metadata
-node_modules
-.idea
+# Idea
+.idea/*
+
+# Byte-compiled / optimized / DLL files
+*.manifest
+*.spec
+
+# Jekyll dev or build
+_site/*
+_development_tool/*
+.sass-cache/*
+*.css.map
+*.scssc
+.bundle/*
+/vendor/
+.jekyll-cache/*
+*/.jekyll-cache/*
+
+# Theme Gem
+*.gem
+.gems
+
+# Node.js
+**/node_modules/*
+**/package-lock.json
