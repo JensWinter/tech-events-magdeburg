@@ -11,6 +11,7 @@ title: Tech Events Magdeburg
 {% endfor %}
 
 {% assign events_date = events | sort: 'date' %}
+{% capture nowunix %}{{'now' | date: '%s' | plus: 0}}{% endcapture %}
 
 <table>
     <thead>
@@ -24,14 +25,17 @@ title: Tech Events Magdeburg
     </thead>
     <tbody>
         {% for event in events_date -%}
-        <tr>
-            {% if event.cancelled %}<td style="color: red;">{% include date.html date=event.date %} <i class="fas fa-exclamation-triangle"></i> abgesagt</td>{% else %}<td>{% include date.html date=event.date %}</td>{% endif %}
-            {% if event.cancelled %}<td style="color: red;">{{ event.time }}</td>{% else %}<td>{{ event.time }}</td>{% endif %}
-            <td>{{ event.org }}</td>
-            <td>{{ event.title }}</td>
-            <td>{{ event.location }}</td>
-            <td><a href="{{ event.url }}">{{ event.url_title }}</a></td>
-        </tr>
+            {% capture eventtime %}{{event.date | date: '%s' | plus: 84600}}{% endcapture %}
+            {% if (eventtime > nowunix) %}
+                <tr>
+                    {% if event.cancelled %}<td style="color: red;">{% include date.html date=event.date %} <i class="fas fa-exclamation-triangle"></i> abgesagt</td>{% else %}<td>{% include date.html date=event.date %}</td>{% endif %}
+                    {% if event.cancelled %}<td style="color: red;">{{ event.time }}</td>{% else %}<td>{{ event.time }}</td>{% endif %}
+                    <td>{{ event.org }}</td>
+                    <td>{{ event.title }}</td>
+                    <td>{{ event.location }}</td>
+                    <td><a href="{{ event.url }}">{{ event.url_title }}</a></td>
+                </tr>
+            {% endif %}
         {% endfor %}
     </tbody>
 </table>
